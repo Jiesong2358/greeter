@@ -1,5 +1,5 @@
 #!/bin/bash
 
-first_name="Leia"
+first_name="Leila"
 
-echo "Hi ${first_name}"
+echo "Hello ${first_name}"
